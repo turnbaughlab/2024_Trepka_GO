@@ -1,6 +1,7 @@
 This repository contains all processed data and code for generating figures in the manuscript "Expansion of a bacterial operon during cancer treatment ameliorates drug toxicity."
 
 Notes: 
+ -The SequencingDataREADME.rtf file contains instructions for adding metadata to files downloaded from the NCBI Sequence Read Archive (PRJNA1169175)
  - The .Rmd file contains modular code for generating all figures. When running the .Rmd file, a new folder will be generated for each main or supplemental figure, with relevant PDFs saved into this folder
  - The .R file contains several helper functions for 16S rRNA amplicon sequencing analysis
  - All other folders represent processed and raw data
